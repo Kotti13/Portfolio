@@ -1,0 +1,11 @@
+@media screen and(max-width:768px) {
+  #navigation-collection{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: auto;
+    width: auto;
+    height: auto;
+  }
+  
+}
